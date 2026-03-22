@@ -52,7 +52,7 @@ const rishiCodes = {
 | 🤖 AI Resume Analyzer | Upload PDF resume → AI match score + gaps | Next.js, Groq, LLaMA 3.3 | [Live](https://my-resume-ai-omega.vercel.app) |
 | ✂️ SnapLink | URL shortener with click analytics | Next.js, Supabase, Recharts | [Live](https://snaplink-taupe.vercel.app) |
 | 💰 SpendSmart | Expense tracker with real-time charts | Next.js, Supabase, Recharts | [Live](https://spendsmart-taupe.vercel.app) |
-| 💬 Nexus Chat | Real-time multi-room chat app | Next.js, Supabase Realtime | [Live](https://your-nexus-url.vercel.app) |
+| 💬 Nexus Chat | Real-time multi-room chat app | Next.js, Supabase Realtime | [Live](https://nexus-chat-mocha.vercel.app/) |
 
 ---
 
